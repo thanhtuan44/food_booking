@@ -10,6 +10,7 @@ import 'package:food_booking/shared/widget/navigation/navigation_bar_item.dart';
 import 'package:food_booking/shared/widget/scale_animation.dart';
 
 
+
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);
 
