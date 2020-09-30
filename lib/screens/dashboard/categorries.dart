@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:food_booking/utils/consts.dart';
 
+
 // We need satefull widget for our categories
 
 class Categories extends StatefulWidget {

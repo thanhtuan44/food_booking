@@ -4,6 +4,7 @@ import 'package:food_booking/models/product.model.dart';
 import 'package:food_booking/shared/app_colors.dart';
 import 'package:get/get.dart';
 
+
 class ItemAdd extends StatelessWidget {
   final ProductModel product;
   ItemAdd(this.product);

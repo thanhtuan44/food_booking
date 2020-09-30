@@ -7,6 +7,7 @@ import 'package:page_transition/page_transition.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 
 
+
 class ProductDetailPage extends StatefulWidget {
   final Product product = Product(
       title: 'Apple',

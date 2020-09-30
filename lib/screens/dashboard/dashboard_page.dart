@@ -5,6 +5,7 @@ import 'package:food_booking/screens/dashboard/allproduct/all_product.dart';
 import 'package:food_booking/screens/detail/detail.dart';
 import 'package:food_booking/shared/widget/app_bar.dart';
 
+
 class DashBoardPage extends StatefulWidget {
   @override
   _DashBoardPageState createState() => _DashBoardPageState();

@@ -9,6 +9,7 @@ import 'package:food_booking/shared/widget/app_bar.dart';
 import 'package:food_booking/shared/widget/scale_animation.dart';
 import 'package:food_booking/utils/consts.dart';
 
+
 class AllProductPage  extends StatefulWidget {
   @override
   AllProductPage_State createState() => AllProductPage_State();

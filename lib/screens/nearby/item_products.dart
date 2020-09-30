@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:food_booking/models/product.model.dart';
 import 'package:food_booking/shared/app_colors.dart';
 import 'package:food_booking/shared/widget/product_image.dart';
-
 import 'item_products_add.dart';
 import 'item_products_like.dart';
 

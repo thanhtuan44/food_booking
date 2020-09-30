@@ -15,6 +15,7 @@ import 'package:food_booking/shared/widget/otp_input.dart';
 import 'package:food_booking/utils/common.dart';
 
 
+
 class ForgotPassOTPPage extends StatefulWidget {
   ForgotPassModel model;
   ForgotPassOTPPage({this.model});

@@ -13,6 +13,7 @@ import 'package:food_booking/utils/common.dart';
 import 'package:food_booking/utils/validation.dart';
 import 'package:provider/provider.dart';
 
+
 class ForgotPassPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
